@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Pedro Pereira and I'm from Portugal.
+- 👋 Hi, my name is Pedro Pereira.
 
 - 👀 I’m interested in Embedded System and Hardware Acceleration.
 
