@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Pedro Pereira.
+- 👋 Hi, my name is Pedro Pereira (24 y.o.).
 
-- 👀 I’m interested in Embedded System and Hardware Acceleration.
+- 👀 I’m interested in Embedded Systems and Hardware Acceleration.
 
 - 💞️ I’m looking to collaborate on emerging and exciting new projects related to FPGA-based Signal Processing.
 
