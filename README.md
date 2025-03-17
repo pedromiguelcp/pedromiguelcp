@@ -1,8 +1,8 @@
-- 👋 Hi, my name is Pedro Pereira (26 y.o.).
+- 👋 Hi, my name is Pedro Pereira (27 y.o.).
 
 - 👀 I’m interested in Embedded Systems, Hardware Acceleration, and GNSS Receivers.
 
-- 💞️ I’m looking to collaborate on emerging and exciting new projects related to FPGA-based Signal Processing.
+- 💞️ I’m looking to collaborate on emerging and exciting new projects related to GNSS receivers and FPGA-based Signal Processing.
 
 - 📫 Reach me on me.pedropereira@gmail.com.
 
